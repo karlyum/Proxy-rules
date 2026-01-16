@@ -22,10 +22,4 @@ Tinder
 2. Shadowrocket → 设置 → 规则 → 添加远程文件 → 粘贴 Raw 链接
 3. 建议：把 policy 替换成你自己的策略组名（如 HK、US、DIRECT 等）
 
-## 规则分类目录
-
-- rules/meta/          → Facebook/Instagram/WhatsApp/Threads
-- rules/telegram/      → Telegram 官方 + Swiftgram 等
-- ...
-
 最后更新：2026-01-16
