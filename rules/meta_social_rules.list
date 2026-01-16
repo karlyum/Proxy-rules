@@ -1,31 +1,36 @@
-# Meta Social Apps Rules
-# Generated on 2026-01-15
-# For Shadowrocket/Loon remote subscription
-# Usage: DOMAIN-SUFFIX,domain,PROXY
+# Meta Social Apps Rules (Facebook / Instagram / WhatsApp / Messenger / Threads)
+# AUTHOR: karlyum (optimized version)
+# REPO: https://github.com/karlyum/Proxy-rules
+# UPDATED: 2026-01-16
+# DESCRIPTION: Meta 家族核心域名 + CDN + 媒体 + API 覆盖（适用于 RULE-SET）
+# TOTAL DOMAINS: ~18（基础+加强）
 
 # Facebook
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,fb.com
-DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,fbsbx.com
-DOMAIN-SUFFIX,facebook.net
-
+DOMAIN-SUFFIX,fbcdn.net                # Meta 最大通用 CDN（图片/视频核心，必须）
+DOMAIN-SUFFIX,fbsbx.com                # 认证、追踪、部分 API
+DOMAIN-SUFFIX,facebook.net             # 旧 API、connect 等
+DOMAIN-SUFFIX,meta.com                 # Meta 主域、部分新 API（2025年后逐渐增多）
 # Instagram
 DOMAIN-SUFFIX,instagram.com
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,ig.me
-
+DOMAIN-SUFFIX,cdninstagram.com         # Instagram/Threads 图片 CDN
+DOMAIN-SUFFIX,ig.me                    # 短链接、部分跳转
+DOMAIN-SUFFIX,igcdn.com                # 部分地区图片/视频 CDN
 # WhatsApp
 DOMAIN-SUFFIX,whatsapp.com
-DOMAIN-SUFFIX,whatsapp.net
-
+DOMAIN-SUFFIX,whatsapp.net             # WhatsApp 主 API 与媒体
 # Messenger
-DOMAIN-SUFFIX,messenger.com
-
+DOMAIN-SUFFIX,messenger.com            # Messenger 主域
 # Threads
-DOMAIN-SUFFIX,threads.net
+DOMAIN-SUFFIX,threads.net              # Threads 主域（旧版）
+DOMAIN-SUFFIX,threads.com              # 2025年后 Threads 网页版主域迁移（强烈推荐添加）
+DOMAIN-SUFFIX,cdnthreads.net           # Threads 专用媒体 CDN（较新，部分版本优先）
 
-# Optional: Meta company-wide (if needed for APIs)
-# DOMAIN-SUFFIX,meta.com
+# 可选加强项（视实际漏流量情况再加）
+# DOMAIN-SUFFIX,graph.facebook.com     # Graph API（开发者/旧版登录）
+# DOMAIN-SUFFIX,graph.instagram.com    # Instagram Graph API
+# DOMAIN-SUFFIX,connect.facebook.net   # 旧版社交插件、登录
+# DOMAIN-KEYWORD,fbcdn                 # 兜底关键词（极少必要）
 
 # End of Rules
