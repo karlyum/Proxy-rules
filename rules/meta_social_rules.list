@@ -1,4 +1,5 @@
 # Meta Social Apps Rules (Facebook / Instagram / WhatsApp / Messenger / Threads)
+
 # Facebook
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,fb.com
@@ -8,23 +9,17 @@ DOMAIN-SUFFIX,facebook.net
 DOMAIN-SUFFIX,meta.com                 
 # Instagram
 DOMAIN-SUFFIX,instagram.com
-DOMAIN-SUFFIX,cdninstagram.com         # Instagram/Threads 图片 CDN
-DOMAIN-SUFFIX,ig.me                    # 短链接、部分跳转
-DOMAIN-SUFFIX,igcdn.com                # 部分地区图片/视频 CDN
+DOMAIN-SUFFIX,cdninstagram.com        
+DOMAIN-SUFFIX,ig.me                    
+DOMAIN-SUFFIX,igcdn.com               
 # WhatsApp
 DOMAIN-SUFFIX,whatsapp.com
-DOMAIN-SUFFIX,whatsapp.net             # WhatsApp 主 API 与媒体
+DOMAIN-SUFFIX,whatsapp.net           
 # Messenger
-DOMAIN-SUFFIX,messenger.com            # Messenger 主域
+DOMAIN-SUFFIX,messenger.com           
 # Threads
-DOMAIN-SUFFIX,threads.net              # Threads 主域（旧版）
-DOMAIN-SUFFIX,threads.com              # 2025年后 Threads 网页版主域迁移（强烈推荐添加）
-DOMAIN-SUFFIX,cdnthreads.net           # Threads 专用媒体 CDN（较新，部分版本优先）
-
-# 可选加强项
-# DOMAIN-SUFFIX,graph.facebook.com     # Graph API（开发者/旧版登录）
-# DOMAIN-SUFFIX,graph.instagram.com    # Instagram Graph API
-# DOMAIN-SUFFIX,connect.facebook.net   # 旧版社交插件、登录
-# DOMAIN-KEYWORD,fbcdn                 # 兜底关键词（极少必要）
+DOMAIN-SUFFIX,threads.net              
+DOMAIN-SUFFIX,threads.com             
+DOMAIN-SUFFIX,cdnthreads.net          
 
 # End of Rules
