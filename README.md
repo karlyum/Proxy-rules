@@ -12,7 +12,7 @@
 
 ## 订阅地址（直接复制到工具中使用）
 
-***Meta_SocialMedia***
+***Meta_SocialMedia***       
   https://raw.githubusercontent.com/karlyum/Proxy-rules/refs/heads/main/rules/meta_social_rules.conf
 
 ***Tinder***       
