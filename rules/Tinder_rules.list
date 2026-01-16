@@ -2,13 +2,18 @@
 # 用于 Loon/Shadowrocket，直连或代理优化
 # 优先级：精确域名 > 子域名
 
-DOMAIN,images-ssl.gotinder.com  # 图片直连优化
-DOMAIN,api.gotinder.com        # API 直连
-DOMAIN,profile.gotinder.com    # 资料
-DOMAIN,auth.gotinder.com      # 登录
+# 图片直连优化
+DOMAIN,images-ssl.gotinder.com
+# API 直连
+DOMAIN,api.gotinder.com  
+# 资料
+DOMAIN,profile.gotinder.com    
+# 登录
+DOMAIN,auth.gotinder.com      
 
-DOMAIN-SUFFIX,gotinder.com   # 兜底 gotinder
-DOMAIN-SUFFIX,tinder.com       # 兜底 tinder
+# 兜底 tinder && gotinder
+DOMAIN-SUFFIX,gotinder.com   
+DOMAIN-SUFFIX,tinder.com       
 
 # 可选: 如果图片仍慢，临时加 CDN（风险: 影响其他 App）
 # DOMAIN-SUFFIX,cloudfront.net
