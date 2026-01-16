@@ -1,0 +1,31 @@
+# Meta Social Apps Rules
+# Generated on 2026-01-15
+# For Shadowrocket/Loon remote subscription
+# Usage: DOMAIN-SUFFIX,domain,PROXY
+
+# Facebook
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,facebook.net
+
+# Instagram
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,ig.me
+
+# WhatsApp
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+
+# Messenger
+DOMAIN-SUFFIX,messenger.com
+
+# Threads
+DOMAIN-SUFFIX,threads.net
+
+# Optional: Meta company-wide (if needed for APIs)
+# DOMAIN-SUFFIX,meta.com
+
+# End of Rules
