@@ -12,9 +12,6 @@
 
 ## 订阅地址（直接复制到工具中使用）
 
-**基础规则合集**（推荐）  
-https://raw.githubusercontent.com/你的用户名/你的仓库名/main/rules/all.conf
-
 **单独规则**（按需订阅）  
 Meta 家族     https://raw.githubusercontent.com/你的用户名/你的仓库名/main/rules/meta/meta.conf  
 Tinder       
