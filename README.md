@@ -1,5 +1,5 @@
 # Proxy-rules
-个人分流规则合集
+个人分流规则合集(仅用于个人使用)
 # 个人分流规则合集
 
 适用于：**Loon / Shadowrocket / Surge / Quantumult X / Clash Meta** 等工具的远程规则订阅
@@ -12,9 +12,11 @@
 
 ## 订阅地址（直接复制到工具中使用）
 
-**单独规则**（按需订阅）  
-Meta 家族     https://raw.githubusercontent.com/你的用户名/你的仓库名/main/rules/meta/meta.conf  
-Tinder       
+**单独规则** 
+***Meta_SocialMedia***
+  https://raw.githubusercontent.com/karlyum/Proxy-rules/refs/heads/main/rules/meta_social_rules.conf
+***Tinder***       
+  https://raw.githubusercontent.com/karlyum/Proxy-rules/refs/heads/main/rules/Tinder_rules.conf
 
 ## 使用方法
 
