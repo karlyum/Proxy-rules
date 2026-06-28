@@ -1,0 +1,17 @@
+DOMAIN-SUFFIX, xiaohongshu.com
+DOMAIN-SUFFIX, xhscdn.com
+DOMAIN-SUFFIX, xhscdn.net
+DOMAIN-SUFFIX, fengkongcloud.com
+
+# 强烈建议补充以下这些（很多用户漏的）
+DOMAIN-SUFFIX, gslb.xiaohongshu.com
+DOMAIN-SUFFIX, fe-static.xhscdn.com
+DOMAIN-SUFFIX, live-room.xiaohongshu.com
+DOMAIN-SUFFIX, apm.xiaohongshu.com
+DOMAIN-SUFFIX, as.xiaohongshu.com
+DOMAIN-SUFFIX, crash.xiaohongshu.com
+DOMAIN-SUFFIX, modelportrait.xiaohongshu.com
+
+# 通配符（最保险）
+DOMAIN-KEYWORD, xiaohongshu
+DOMAIN-KEYWORD, xhscdn
