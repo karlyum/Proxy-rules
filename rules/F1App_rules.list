@@ -21,3 +21,11 @@ DOMAIN,fantasy.formula1.com
 DOMAIN,support.formula1.com
 DOMAIN,data.formula1.com
 DOMAIN,live.formula1.com
+
+# 免费第三方 Live Timing
+DOMAIN-SUFFIX,f1-dash.com
+DOMAIN-SUFFIX,formuletry.com
+DOMAIN-SUFFIX,openf1.org
+DOMAIN-SUFFIX,openf1ow.com
+DOMAIN-SUFFIX,f1livepulse.com
+DOMAIN-SUFFIX,oneracingapp.com
