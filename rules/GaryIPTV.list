@@ -311,3 +311,7 @@ DOMAIN-SUFFIX,xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com
 DOMAIN-SUFFIX,xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com
 DOMAIN-SUFFIX,xumo-xumoent-vc-122-sjv70.fast.nbcuni.com
 IP-CIDR,89.187.179.0/24
+IP-CIDR,206.212.244.0/24
+IP-CIDR,143.244.60.0/24
+IP-CIDR,198.255.87.0/24
+IP-CIDR,64.112.42.0/24
