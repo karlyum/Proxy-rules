@@ -1,0 +1,65 @@
+# EngTV — 4K UHD / News / Sports - NA / Sports - EU
+# Generated from Gary's_Iptv.m3u
+# No policy specified. Select the desired policy in your proxy client.
+
+# [4K UHD]
+IP-CIDR,89.187.179.148/32,no-resolve
+DOMAIN-SUFFIX,pb-ehs1glsha1juy.akamaized.net
+DOMAIN-SUFFIX,pb-qyrvophnifz47.akamaized.net
+DOMAIN-SUFFIX,tsb-mega.i9.ee
+
+# [News]
+IP-CIDR,89.187.179.148/32,no-resolve
+DOMAIN-SUFFIX,aka-live1050.delivery.roku.com
+DOMAIN-SUFFIX,amd-mediator-eolq3tk4la-uk.a.run.app
+DOMAIN-SUFFIX,amg00106-france24-france24-samsunguk-qvpp8.amagi.tv
+DOMAIN-SUFFIX,amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv
+DOMAIN-SUFFIX,amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv
+DOMAIN-SUFFIX,amg01448-samsungin-ndtv24x7-samsungin-ad.amagi.tv
+DOMAIN-SUFFIX,c.mjh.nz
+DOMAIN-SUFFIX,d1qxs0m523lkbc.cloudfront.net
+DOMAIN-SUFFIX,d2d98ykcmmhgd4.cloudfront.net
+DOMAIN-SUFFIX,d4whmvwm0rdvi.cloudfront.net
+DOMAIN-SUFFIX,dbrb49pjoymg4.cloudfront.net
+DOMAIN-SUFFIX,ds2c506obo7m8.cloudfront.net
+DOMAIN-SUFFIX,dwamdstream102.akamaized.net
+DOMAIN-SUFFIX,english-livebkali.cgtn.com
+DOMAIN-SUFFIX,i.mjh.nz
+DOMAIN-SUFFIX,nmx1ota.akamaized.net
+DOMAIN-SUFFIX,pb-0n3n2ej0w8pl9.akamaized.net
+DOMAIN-SUFFIX,pb-iiczlgfysam0q.akamaized.net
+DOMAIN-SUFFIX,php.jdshipin.com
+DOMAIN-SUFFIX,rt-glb.rttv.com
+DOMAIN-SUFFIX,s11host2.localnow.api.cms.amdvids.com
+DOMAIN-SUFFIX,tv-trtworld.medya.trt.com.tr
+DOMAIN-SUFFIX,usatodaynews-samsungus-tsv2-ghkcu.amagi.tv
+DOMAIN-SUFFIX,vs-hls-push-ww-live.akamaized.net
+DOMAIN-SUFFIX,xumo-drct-skynews-nc91a.fast.nbcuni.com
+
+# [Sports - NA]
+DOMAIN-SUFFIX,0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com
+IP-CIDR,23.237.104.106/32,no-resolve
+IP-CIDR,89.187.179.148/32,no-resolve
+DOMAIN-SUFFIX,aka-live1050.delivery.roku.com
+DOMAIN-SUFFIX,amg00136-wbd-amg00136c41-lg-us-3570.playouts.now.amagi.tv
+DOMAIN-SUFFIX,amg00451-dazn-daznringside-lgus-2f6xc.amagi.tv
+DOMAIN-SUFFIX,amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv
+DOMAIN-SUFFIX,d1kqz1q7knpsue.cloudfront.net
+DOMAIN-SUFFIX,d2w9q46ikgrcwx.cloudfront.net
+DOMAIN-SUFFIX,d38d8jwr5u7ckx.cloudfront.net
+DOMAIN-SUFFIX,d3b3ldcvgsu291.cloudfront.net
+DOMAIN-SUFFIX,d3b6q2ou5kp8ke.cloudfront.net
+DOMAIN-SUFFIX,d3pnbvng3bx2nj.cloudfront.net
+DOMAIN-SUFFIX,d4whmvwm0rdvi.cloudfront.net
+DOMAIN-SUFFIX,dbrb49pjoymg4.cloudfront.net
+DOMAIN-SUFFIX,dnf08l6u6uxnz.cloudfront.net
+DOMAIN-SUFFIX,dzz957bqk62e8.cloudfront.net
+DOMAIN-SUFFIX,jmp2.uk
+DOMAIN-SUFFIX,pb-41uwb26l8gvwx.akamaized.net
+
+# [Sports - EU]
+IP-CIDR,89.187.179.148/32,no-resolve
+DOMAIN-SUFFIX,atlanticflixtv.online
+DOMAIN-SUFFIX,d2bbbc1corbwv1.cloudfront.net
+DOMAIN-SUFFIX,innovationtv.eu
+DOMAIN-SUFFIX,slh.kop.homes
