@@ -1,5 +1,61 @@
+# ==================== IP 类分流 ====================
 IP-CIDR,89.187.179.0/24
 IP-CIDR,206.212.244.0/24
 IP-CIDR,143.244.60.0/24
 IP-CIDR,198.255.87.0/24
 IP-CIDR,64.112.42.0/24
+
+# ==================== 域名类分流 ====================
+# --- 4K UHD 频道服务器 ---
+DOMAIN-SUFFIX,pb-qyrvophnifz47.akamaized.net
+DOMAIN-SUFFIX,pb-ehs1glsha1juy.akamaized.net
+DOMAIN-SUFFIX,tsb-mega.i9.ee
+
+# --- News 频道服务器 ---
+DOMAIN-SUFFIX,pb-0n3n2ej0w8pl9.akamaized.net
+DOMAIN-SUFFIX,pb-iiczlgfysam0q.akamaized.net
+DOMAIN-SUFFIX,d2d98ykcmmhgd4.cloudfront.net
+DOMAIN-SUFFIX,amd-mediator-eolq3tk4la-uk.a.run.app
+DOMAIN-SUFFIX,ds2c506obo7m8.cloudfront.net
+DOMAIN-SUFFIX,s11host2.localnow.api.cms.amdvids.com
+DOMAIN-SUFFIX,d4whmvwm0rdvi.cloudfront.net
+DOMAIN-SUFFIX,nmx1ota.akamaized.net
+DOMAIN-SUFFIX,dbrb49pjoymg4.cloudfront.net
+DOMAIN-SUFFIX,xumo-drct-skynews-nc91a.fast.nbcuni.com
+DOMAIN-SUFFIX,usatodaynews-samsungus-tsv2-ghkcu.amagi.tv
+DOMAIN-SUFFIX,d1qxs0m523lkbc.cloudfront.net
+DOMAIN-SUFFIX,vs-hls-push-ww-live.akamaized.net
+DOMAIN-SUFFIX,amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv
+DOMAIN-SUFFIX,aka-live1050.delivery.roku.com
+DOMAIN-SUFFIX,amg00106-france24-france24-samsunguk-qvpp8.amagi.tv
+DOMAIN-SUFFIX,dwamdstream102.akamaized.net
+DOMAIN-SUFFIX,tv-trtworld.medya.trt.com.tr
+DOMAIN-SUFFIX,rt-glb.rttv.com
+DOMAIN-SUFFIX,c.mjh.nz
+DOMAIN-SUFFIX,amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv
+DOMAIN-SUFFIX,i.mjh.nz
+DOMAIN-SUFFIX,amg01448-samsungin-ndtv24x7-samsungin-ad.amagi.tv
+DOMAIN-SUFFIX,php.jdshipin.com
+DOMAIN-SUFFIX,english-livebkali.cgtn.com
+
+# --- Sports NA 频道服务器 ---
+DOMAIN-SUFFIX,d38d8jwr5u7ckx.cloudfront.net
+DOMAIN-SUFFIX,jmp2.uk
+DOMAIN-SUFFIX,amg00451-dazn-daznringside-lgus-2f6xc.amagi.tv
+DOMAIN-SUFFIX,d3b6q2ou5kp8ke.cloudfront.net
+DOMAIN-SUFFIX,amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv
+DOMAIN-SUFFIX,d2w9q46ikgrcwx.cloudfront.net
+DOMAIN-SUFFIX,dnf08l6u6uxnz.cloudfront.net
+DOMAIN-SUFFIX,amg00136-wbd-amg00136c41-lg-us-3570.playouts.now.amagi.tv
+DOMAIN-SUFFIX,d1kqz1q7knpsue.cloudfront.net
+DOMAIN-SUFFIX,dzz957bqk62e8.cloudfront.net
+DOMAIN-SUFFIX,0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com
+DOMAIN-SUFFIX,d3b3ldcvgsu291.cloudfront.net
+DOMAIN-SUFFIX,pb-41uwb26l8gvwx.akamaized.net
+DOMAIN-SUFFIX,d3pnbvng3bx2nj.cloudfront.net
+
+# --- Sports EU 频道服务器 ---
+DOMAIN-SUFFIX,innovationtv.eu
+DOMAIN-SUFFIX,slh.kop.homes
+DOMAIN-SUFFIX,atlanticflixtv.online
+DOMAIN-SUFFIX,d2bbbc1corbwv1.cloudfront.net
