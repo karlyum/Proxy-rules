@@ -10,6 +10,7 @@ IP-CIDR,64.112.42.0/24
 DOMAIN-SUFFIX,pb-qyrvophnifz47.akamaized.net
 DOMAIN-SUFFIX,pb-ehs1glsha1juy.akamaized.net
 DOMAIN-SUFFIX,tsb-mega.i9.ee
+DOMAIN-SUFFIX,cdn.qd.je
 
 # --- News 频道服务器 ---
 DOMAIN-SUFFIX,pb-0n3n2ej0w8pl9.akamaized.net
