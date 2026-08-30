@@ -1,6 +1,5 @@
 # Pornhub 主站及相关域名
 DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,www.pornhub.com
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,pornhubpremium.com
@@ -9,17 +8,3 @@ DOMAIN-SUFFIX,pornhub-deutsch.net
 DOMAIN-SUFFIX,porngub.com
 DOMAIN-SUFFIX,gaytube.com
 DOMAIN-SUFFIX,pornhub.org
-
-# 常用子域名 / CDN
-DOMAIN-SUFFIX,cdn.pornhub.com
-DOMAIN-SUFFIX,cdn-d-static.pornhub.com
-DOMAIN-SUFFIX,cdn-d-img.pornhub.com
-DOMAIN-SUFFIX,cdn-d-vid.pornhub.com
-DOMAIN-SUFFIX,cdn-d-vid-public.pornhub.com
-DOMAIN-SUFFIX,cdn-d-vid-mobile.pornhub.com
-DOMAIN-SUFFIX,cdn-d-vid-embed.pornhub.com
-DOMAIN-SUFFIX,img.pornhub.com
-DOMAIN-SUFFIX,thumbs.pornhub.com
-DOMAIN-SUFFIX,video.pornhub.com
-DOMAIN-SUFFIX,m.pornhub.com
-DOMAIN-SUFFIX,mobile.pornhub.com
