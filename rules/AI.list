@@ -1,0 +1,139 @@
+# AI 分流规则 
+# Mainstream AI Services Routing Rules
+# Edit-time: 2026.8.31
+# 注！(仅为国外部分AI，不包含国内)
+
+# 设计原则：
+# 1.覆盖主流 AI 服务；
+# 2.优先使用精确域名；
+# 3.仅加入 AI 专属依赖；
+# 4.避免匹配共享基础设施；
+# 5.避免与其他平台规则冲突。
+
+# 建议策略：指向干净的家宽节点，避免帐号服务被风控，导致封禁、丢失帐号及订阅服务。
+
+# OpenAI
+
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,oaistatsig.com
+DOMAIN-SUFFIX,openaimerge.com
+DOMAIN,android.chat.openai.com
+DOMAIN,ios.chat.openai.com
+DOMAIN,desktop.chat.openai.com
+DOMAIN,chat.openai.com
+DOMAIN,auth0.openai.com
+DOMAIN,setup.auth.openai.com
+DOMAIN,cdn.openaimerge.com
+DOMAIN,tcr9i.chat.openai.com
+
+# Sora
+
+DOMAIN-SUFFIX,sora.com
+
+# Claude
+
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN,bridge.claudeusercontent.com
+DOMAIN,platform.claude.com
+DOMAIN,code.claude.com
+DOMAIN,downloads.claude.ai
+
+# Gemini
+
+DOMAIN,gemini.google.com
+DOMAIN,bard.google.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,generativeai.google
+
+# Google AI Studio
+
+DOMAIN,ai.google.dev
+DOMAIN,aistudio.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+
+# Google DeepMind
+
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+
+# NotebookLM
+
+DOMAIN-SUFFIX,notebooklm.google
+
+# Grok
+
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+
+# Microsoft Copilot
+
+DOMAIN,copilot.microsoft.com
+DOMAIN,sydney.bing.com
+
+# GitHub Copilot
+
+DOMAIN-SUFFIX,githubcopilot.com
+
+# OpenRouter
+
+DOMAIN-SUFFIX,openrouter.ai
+
+# Perplexity
+
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,pplx.ai
+
+# Mistral AI
+
+DOMAIN-SUFFIX,mistral.ai
+
+# Groq
+
+DOMAIN-SUFFIX,groq.com
+
+# Cohere
+
+DOMAIN-SUFFIX,cohere.com
+
+# Hugging Face
+
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,huggingface.tech
+
+# AI Coding
+
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,windsurf.com
+
+# AI Platforms
+
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,character.ai
+
+# AI Image / Video / Audio
+
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,elevenlabs.io
+DOMAIN-SUFFIX,suno.com
+DOMAIN-SUFFIX,runwayml.com
+DOMAIN-SUFFIX,stability.ai
+DOMAIN-SUFFIX,leonardo.ai
+
+# Meta AI
+
+DOMAIN-SUFFIX,meta.ai
+
+# AI API / Model Platforms
+
+DOMAIN-SUFFIX,together.ai
+DOMAIN-SUFFIX,replicate.com
+DOMAIN-SUFFIX,fireworks.ai
+DOMAIN-SUFFIX,anyscale.com
