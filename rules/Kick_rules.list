@@ -1,27 +1,5 @@
-# Kick 主站和子域名
+# Kick
 DOMAIN-SUFFIX,kick.com
-DOMAIN-SUFFIX,api.kick.com
-DOMAIN-SUFFIX,id.kick.com
 
-# 流媒体相关
-DOMAIN-SUFFIX,stream.kick.com
-DOMAIN-SUFFIX,player.kick.com
-DOMAIN-SUFFIX,assets.kick.com
-DOMAIN-SUFFIX,preview.kick.com
-DOMAIN-SUFFIX,cdn.kick.com
-DOMAIN-SUFFIX,mobile.kick.com
-
-# 视频分发（HLS / live-video.net）
-DOMAIN-SUFFIX,live-video.net
-DOMAIN-SUFFIX,global-contribute.live-video.net
-DOMAIN-SUFFIX,playlist.live-video.net
-DOMAIN-SUFFIX,video-edge.live-video.net
-
-# WebSocket / 聊天（Pusher）
+# Kick WebSocket
 DOMAIN-SUFFIX,ws-us2.pusher.com
-DOMAIN-SUFFIX,pusher.com
-DOMAIN-SUFFIX,websockets.kick.com
-
-# 其他可能用到的子域名/关键词（根据实际流量补充）
-DOMAIN-KEYWORD,kick, 
-DOMAIN-SUFFIX,xx.kick.com
