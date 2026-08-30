@@ -1,4 +1,5 @@
-# MissAV 分流规则 - 2026 更新
+# MissAV 分流规则 
+# 更新于：2026-08-31
 
 DOMAIN-SUFFIX,missav.ai
 DOMAIN-SUFFIX,missav.ws
@@ -8,6 +9,3 @@ DOMAIN-SUFFIX,missav123.com
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,thisav.com
 DOMAIN-SUFFIX,surrit.com
-DOMAIN-KEYWORD,missav
-DOMAIN-KEYWORD,thisav
-
