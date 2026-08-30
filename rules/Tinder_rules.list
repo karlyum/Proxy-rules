@@ -1,19 +1,14 @@
-# Tinder 规则集 
-# 用于 Loon/Shadowrocket，直连或代理优化
-# 优先级：精确域名 > 子域名
+# Tinder 规则集 (适用于 Loon / Shadowrocket)
 
-# 图片直连优化
-DOMAIN,images-ssl.gotinder.com
-# API 直连
-DOMAIN,api.gotinder.com  
-# 资料
-DOMAIN,profile.gotinder.com    
-# 登录
-DOMAIN,auth.gotinder.com      
+# 核心服务与 API
+DOMAIN-SUFFIX,tinder.com
+DOMAIN-SUFFIX,gotinder.com
+DOMAIN-SUFFIX,tinderapi.com
 
-# 兜底 tinder && gotinder
-DOMAIN-SUFFIX,gotinder.com   
-DOMAIN-SUFFIX,tinder.com       
+# 媒体与 CDN 资源 (加载图片/视频)
+DOMAIN-SUFFIX,tinder-images.s3.amazonaws.com
+DOMAIN-SUFFIX,tinder-video.s3.amazonaws.com
 
-# 可选: 如果图片仍慢，临时加 CDN（风险: 影响其他 App）
-# DOMAIN-SUFFIX,cloudfront.net
+# 关键词保底
+DOMAIN-KEYWORD,gotinder
+DOMAIN-KEYWORD,tinder
