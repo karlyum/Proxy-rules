@@ -7,21 +7,6 @@ DOMAIN-SUFFIX,f1.tv
 DOMAIN-SUFFIX,f1tv.com
 DOMAIN-SUFFIX,formula1-iab.com
 
-# 常见子域名（可选，已包含在上面后缀中，可单独加强）
-DOMAIN,api.formula1.com
-DOMAIN,f1tv.formula1.com
-DOMAIN,account.formula1.com
-DOMAIN,ott-img.formula1.com
-DOMAIN,consent.formula1.com
-DOMAIN,livetiming.formula1.com
-DOMAIN,media.formula1.com
-DOMAIN,static.formula1.com
-DOMAIN,video.formula1.com
-DOMAIN,fantasy.formula1.com
-DOMAIN,support.formula1.com
-DOMAIN,data.formula1.com
-DOMAIN,live.formula1.com
-
 # 免费第三方 Live Timing
 DOMAIN-SUFFIX,f1-dash.com
 DOMAIN-SUFFIX,formuletry.com
