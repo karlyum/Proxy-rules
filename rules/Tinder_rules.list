@@ -8,7 +8,3 @@ DOMAIN-SUFFIX,tinderapi.com
 # 媒体与 CDN 资源 (加载图片/视频)
 DOMAIN-SUFFIX,tinder-images.s3.amazonaws.com
 DOMAIN-SUFFIX,tinder-video.s3.amazonaws.com
-
-# 关键词保底
-DOMAIN-KEYWORD,gotinder
-DOMAIN-KEYWORD,tinder
